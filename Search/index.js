@@ -1,16 +1,16 @@
 var authConfig = {
-  siteName: 'G-Index', // WebSite Name
+  siteName: 'logger2.tedm4004.workers.dev', // WebSite Name
   version: '1.0', // VersionControl, do not modify manually
   // Only material!
   theme: 'material', // material  classic
    //add themes color, darkmode
   main_color: '', // red | pink | purple | deep-purple | indigo | blue | light-blue | cyan | teal | green | light-green | lime yellow | amber orange | deep-orange | brown | greyblue-grey
   accent_color: '', // red | pink | purple | deep-purple | indigo | blue | light-blue | cyan | teal | green | light-green | lime | yellow | amber | orange | deep-orange
-  dark_theme: false, // true for dark theme
+  dark_theme: true, // true for dark theme
   // client_id & client_secret - PLEASE USE YOUR OWN!
-  client_id: '202264815644.apps.googleusercontent.com',
-  client_secret: 'X4Z3ca8xfWDb1Voo-F9a7ZxJ',
-  refresh_token: '', // Refresh token
+  client_id: '982931265312-n776nj3pev49ln6918cksfk6dqhe4m92.apps.googleusercontent.com',
+  client_secret: 'Z-HDMGAPvViFGxllmYrrxXS4',
+  refresh_token: '4/1AY0e-g70GbrCmlqsC6kIxAUADsYNGWLOHGX_nhFKmg1VVG_naz', // Refresh token
 
   /**
    * Set up multiple Drives to display; add multiples by format
@@ -25,8 +25,8 @@ var authConfig = {
   // It is possible to set only the password, only the user name, and the user name and password at the same time
   roots: [
     {
-      id: '',
-      name: 'Sample1',
+      id: '1VCBM1JfPogW_ekkZMnnj__f0WiO-026v',
+      name: 'Teamlog',
       user: 'admin',
       pass: ''
     },
